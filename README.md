@@ -1,4 +1,4 @@
-# Accenture-North-America-Data-Analytics-and-Visualization
+# Tata Group Data Visualisation
 Good afternoon, everyone! I’m John Jerry Gordon-Mensah, and I’m excited to share some key insights with you today. Thank you for the questions you provided; they were incredibly helpful in guiding the analysis and ensuring I focused on what’s most relevant for your strategic decisions.
 
 Before we get into the main findings, I want to touch briefly on the data cleaning process. When I brought the data into Power BI, I noticed a few issues—such as negative quantities and some incorrect unit prices. These seemed to be from product returns and data entry errors, so I filtered out any quantities below 1 and unit prices below $0. This gave us a much more reliable dataset to work with.
@@ -14,8 +14,11 @@ Lastly, the CEO wanted a global view of where demand is highest, excluding the U
 To wrap up, here are my main recommendations: (1) Make the most of seasonal demand: Targeted campaigns and stock planning for the last quarter could maximize revenue during this high-demand period. (2) Prioritize high-demand countries: Focusing on the Netherlands, Germany, Ireland, and France could drive substantial growth. (3) Strengthen relationships with top customers: Programs that keep these high-value customers engaged could benefit our overall revenue. (4) Consider expansion into untapped regions: Exploring North America and Asia could open new avenues for growth.
 
 Thank you all for your time and attention. I’m happy to answer any questions or dive deeper into any area. I look forward to discussing how we can use these insights to shape future growth.
-I just completed Accenture North America's Data Analytics and Visualization on Forage. In the simulation I:
-Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture
-Cleaned, modelled and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions
-Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders
-Check out the simulation here: https://www.theforage.com/simulations/accenture-nam/data-analytics-mmlb
+
+I just completed Tata Group's Data Visualisation: Empowering Business with Effective Insights on Forage. In the simulation I:
+Completed a simulation involving creating data visualizations for Tata Consultancy Services
+Prepared questions for a meeting with client senior leadership
+Created visuals for data analysis to help executives with effective decision making
+ 
+Check out the simulation here: https://www.theforage.com/simulations/tata/data-visualisation-p5xo
+
